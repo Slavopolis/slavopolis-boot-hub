@@ -17,8 +17,10 @@
 
     <name>Slavopolis Boot Hub</name>
     <description>Slavopolis Boot Hub - Spring Boot starter for Slavopolis</description>
+
     <modules>
         <module>01-boot-hello</module>
+        <module>02-boot-config</module>
     </modules>
 
     <properties>
